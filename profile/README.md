@@ -10,7 +10,8 @@
 
 ![OSINT](https://img.shields.io/badge/OSINT-Intelligence-0a0a0a?style=for-the-badge)
 ![Sources](https://img.shields.io/badge/200%2B-Data%20Sources-0a0a0a?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Web-Based-Platform-0a0a0a?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-web-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 
 </div>
 
